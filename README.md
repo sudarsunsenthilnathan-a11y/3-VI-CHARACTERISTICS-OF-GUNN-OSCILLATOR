@@ -54,6 +54,9 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+![Screenshot 2025-11-17 185453](https://github.com/user-attachments/assets/e29437b7-529f-4ca5-a553-8a98e7cf8833)
+<img width="1129" height="1507" alt="image" src="https://github.com/user-attachments/assets/b39ec0d7-87e2-4296-b81f-f6916d509869" />
+
 
 **C.Analysis of Results: (Write your own)**
 
